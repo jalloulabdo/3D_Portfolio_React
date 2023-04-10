@@ -11,11 +11,11 @@ const Hero = () => {
           <div className="w-5 h-5 rounded-full bg-[#915eff]" />
           <div className="w-1 sm:h-80 h-40 violet-gradient " />
         </div>
-        <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>Hi , I'm <span className="text-[#915eff]">JALLOUL </span> </h1>
+        <div className="mb-2">
+          <h1 className={`${styles.heroHeadText} text-white leading-[30px]`}>Hi , I'm <span className="text-[#915eff]">JALLOUL </span><br className='sm:block hidden' />Abderrahim </h1>
           <p className={`${styles.heroSubText} text-white-100 mt-2`}>
-            I develop 3D visuals, user <br className='sm:block hidden' />
-            interfaces and web applications
+            I’m a FullStack Developer located in Morocco. I have a serious passion for UI/UX effects, animations and creating REST Api,in general dynamic user experiences. Well-organised person, problem solver,independent employee with high attention to detail. Interested in the entire frontend and backend spectrum and working on ambitious projects with positive people.<br className='sm:block hidden' />
+            
           </p>
         </div>
       </div>
