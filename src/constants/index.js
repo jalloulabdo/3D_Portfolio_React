@@ -118,9 +118,7 @@ const experiences = [
     icon: starbucks,
     iconBg: "#383E56",
     date: "2012 - 2013",
-    points: [
-  
-    ],
+    points: [],
   },
   {
     title: "TECHNICAL UNIVERSITY DEGREE , COMPUTER ENGINEERING",
@@ -128,8 +126,7 @@ const experiences = [
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "2014 - 2016",
-    points: [
-    ],
+    points: [],
   },
   {
     title: "PROFESSIONAL LICENSE - BUSINESS INTELLIGENCE",
@@ -137,8 +134,7 @@ const experiences = [
     icon: shopify,
     iconBg: "#383E56",
     date: "2017 - 2018",
-    points: [
-    ],
+    points: [],
   },
   {
     title: "Full stack Developer",
@@ -150,7 +146,8 @@ const experiences = [
       "Work with a team of three developper to build a dashboard client web application with laravel.",
       "Build real time REST APIs for calculing data in an agro system with laravel.",
     ],
-  },{
+  },
+  {
     title: "Full stack Developer",
     company_name: "GreenSolutions ",
     icon: meta,
@@ -161,7 +158,7 @@ const experiences = [
       "Work with a team of three developper to build a dashboard client web application with laravel.",
       "Build real time REST APIs for calculing data in an agro system with laravel.",
     ],
-  }
+  },
 ];
 
 const testimonials = [
@@ -244,16 +241,16 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "animejs",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/jalloulabdo/AgadirIt-NuxtJs-Firebase",
+    source_code_link: "https://agadirit.netlify.app/",
   },
 ];
 
