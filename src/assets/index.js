@@ -30,6 +30,7 @@ import flash from "./company/flash.png";
 import carrent from "./cloud.png";
 import jobit from "./averti.png";
 import tripguide from "./agadirit.png";
+import carTrips from "./agadirit.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   jobit,
   tripguide,
   flash,
+  carTrips,
 };
