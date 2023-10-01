@@ -24,7 +24,7 @@ import {
   tripguide,
   threejs,
   flash,
-  caarTrips,
+  carTrips,
 } from "../assets";
 
 export const navLinks = [
@@ -271,7 +271,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: caarTrips,
+    image: carTrips,
     source_code_link: "https://car-trips.netlify.app/",
   },
 ];
