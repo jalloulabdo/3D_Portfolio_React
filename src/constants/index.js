@@ -252,6 +252,27 @@ const projects = [
     image: tripguide,
     source_code_link: "https://agadirit.netlify.app/",
   },
+  {
+    name: "Car Trips",
+    description:
+      "Streamline your car rental experience with our effortless booking process.",
+    tags: [
+      {
+        name: "Nextjs13",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Rapid api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://car-trips.netlify.app/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
