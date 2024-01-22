@@ -25,6 +25,7 @@ import {
   threejs,
   flash,
   carTrips,
+  ultras,
 } from "../assets";
 
 export const navLinks = [
@@ -273,6 +274,31 @@ const projects = [
     ],
     image: carTrips,
     source_code_link: "https://car-trips.netlify.app/",
+  },
+  {
+    name: "Ultras",
+    description:
+      " Ultras –Your Ultimate Destination for Premium Sports Footwear.",
+    tags: [
+      {
+        name: "Nextjs13",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Strapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Redux",
+        color: "violet-text-gradient",
+      },
+    ],
+    image: ultras,
+    source_code_link: "https://ultras.vercel.app/",
   },
 ];
 

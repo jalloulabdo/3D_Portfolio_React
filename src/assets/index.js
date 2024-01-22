@@ -31,6 +31,7 @@ import carrent from "./cloud.png";
 import jobit from "./averti.png";
 import tripguide from "./agadirit.png";
 import carTrips from "./carTrips.png";
+import ultras from "./ultras.png";
 
 export {
   logo,
@@ -63,4 +64,5 @@ export {
   tripguide,
   flash,
   carTrips,
+  ultras,
 };
