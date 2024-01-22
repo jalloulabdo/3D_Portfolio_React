@@ -26,6 +26,7 @@ import {
   flash,
   carTrips,
   ultras,
+  eurostyle,
 } from "../assets";
 
 export const navLinks = [
@@ -154,9 +155,21 @@ const experiences = [
     company_name: "GreenSolutions ",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "2021 - Present",
+    date: "2021 - 2023",
     points: [
       "Work with a variety of different languages, platforms, frameworks such as JavaScript, TypeScript,Laravel and Vuejs.",
+      "Work with a team of three developper to build a dashboard client web application with laravel.",
+      "Build real time REST APIs for calculing data in an agro system with laravel.",
+    ],
+  },
+  {
+    title: "Full stack Developer",
+    company_name: "Eurostyle systems  ",
+    icon: eurostyle,
+    iconBg: "#E6DEDD",
+    date: "(septembre- décembre ) 2023",
+    points: [
+      "Work with a variety of different languages, platforms, frameworks such as JavaScript, TypeScript,Laravel and Nextjs.",
       "Work with a team of three developper to build a dashboard client web application with laravel.",
       "Build real time REST APIs for calculing data in an agro system with laravel.",
     ],

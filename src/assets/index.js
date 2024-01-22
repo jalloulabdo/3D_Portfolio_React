@@ -32,7 +32,7 @@ import jobit from "./averti.png";
 import tripguide from "./agadirit.png";
 import carTrips from "./carTrips.png";
 import ultras from "./ultras.png";
-
+import eurostyle from "./eurostyle.png";
 export {
   logo,
   backend,
@@ -65,4 +65,5 @@ export {
   flash,
   carTrips,
   ultras,
+  eurostyle,
 };
