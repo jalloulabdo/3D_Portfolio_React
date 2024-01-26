@@ -18,7 +18,9 @@
   padding-bottom: 100px;
   display: block;
 }
-
+.gradient-violet {
+  background: linear-gradient(to right, #e1a8e7, #a02195);
+}
 .black-gradient {
   background: #000000;
   /* fallback for old browsers */
