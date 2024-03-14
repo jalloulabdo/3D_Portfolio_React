@@ -4,7 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-import link from "./link.png";
+import link from "./link-to.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -34,6 +34,7 @@ import tripguide from "./agadirit.png";
 import carTrips from "./carTrips.png";
 import ultras from "./ultras.png";
 import eurostyle from "./eurostyle.png";
+import myRecipes from "./my-recipes.png";
 export {
   logo,
   backend,
@@ -68,4 +69,5 @@ export {
   ultras,
   eurostyle,
   link,
+  myRecipes,
 };

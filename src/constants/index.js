@@ -27,6 +27,7 @@ import {
   carTrips,
   ultras,
   eurostyle,
+  myRecipes,
 } from "../assets";
 
 export const navLinks = [
@@ -312,6 +313,26 @@ const projects = [
     ],
     image: ultras,
     source_code_link: "https://ultras.vercel.app/",
+  },{
+    name: "My Recipes",
+    description:
+      "My Recipes is a website offering a comprehensive collection of recipes, complete with ingredient lists and links to corresponding YouTube videos for step-by-step preparation guidance.",
+    tags: [
+      {
+        name: "Vuejs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Axios",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: myRecipes,
+    source_code_link: "https://my-recipes-mu.vercel.app/",
   },
 ];
 
