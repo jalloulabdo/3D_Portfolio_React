@@ -34,7 +34,7 @@ import tripguide from "./agadirit.png";
 import carTrips from "./carTrips.png";
 import ultras from "./ultras.png";
 import eurostyle from "./eurostyle.png";
-import myRecipes from "./my-recipes.png";
+import myRecipes from "./recipes.png";
 export {
   logo,
   backend,
